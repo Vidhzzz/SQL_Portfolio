@@ -11,8 +11,6 @@ This repository demonstrates my hands-on SQL skills using MySQL
 - CTEs
 - Window Functions
 - Views
-- Stored Procedures
-- Triggers
 - Indexes
 
 ## Database
